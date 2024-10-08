@@ -39,6 +39,8 @@ df.to_excel('tweets_with_languages.xlsx', index=False)  # Save the output to a n
 #which is not russian for sure (i'm a native speaker, so you can trust me). 
 #unfortunately,I've no idea how to fix it and it leads to some errors in language detection 
 
+#ex4.2
+
 
 
 
